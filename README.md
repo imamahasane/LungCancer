@@ -1,5 +1,4 @@
 # Paper_Collection
 
-1. TS-GAN: Time-series GAN for Sensor-based Health Data Augmentation. [Online Link](https://dl.acm.org/doi/10.1145/3583593)
-2. New York City taxi trip duration prediction using MLP and XGBoost. [Online Link](https://link.springer.com/article/10.1007/s13198-021-01130-x)
-3. 
+1. Sybil: A Validated Deep Learning Model to Predict Future Lung Cancer Risk From a Single Low-Dose Chest Computed Tomography. [Online Link]([https://dl.acm.org/doi/10.1145/3583593](https://ascopubs.org/doi/pdfdirect/10.1200/JCO.22.01345))
+2. 
